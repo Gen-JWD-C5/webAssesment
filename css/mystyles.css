@@ -1,0 +1,23 @@
+.navbar img {
+    width: auto;
+    height: 25px;    
+}
+
+h1 {
+    color: #469E8C;
+}
+
+.card img {
+    border-radius: 10%;
+}
+
+form {
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
